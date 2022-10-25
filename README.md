@@ -1,5 +1,7 @@
-# dsa_javascript
-DSA Concepts with Javascript
+# DSA with JavaScript
+#### Algorithm
+##### :crocodile: Searching
+##### :crocodile: Sorting
 Array
 Linked List
 Stack
